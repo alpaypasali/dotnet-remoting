@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-remoting-server", "dotnet-remoting\dotnet-remoting-server.csproj", "{C26DCD9B-CDA7-491B-BF6E-6F2A7E3B7CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-remoting-client", "dotnet-remoting-client\dotnet-remoting-client.csproj", "{F4E83579-9235-48EE-9CA9-942F9C31ACC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-remoting-lib", "dotnet-remoting-lib\dotnet-remoting-lib.csproj", "{D8EEBD4F-7BDF-4BBB-9A88-C1C72D709340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26DCD9B-CDA7-491B-BF6E-6F2A7E3B7CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26DCD9B-CDA7-491B-BF6E-6F2A7E3B7CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26DCD9B-CDA7-491B-BF6E-6F2A7E3B7CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26DCD9B-CDA7-491B-BF6E-6F2A7E3B7CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E83579-9235-48EE-9CA9-942F9C31ACC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E83579-9235-48EE-9CA9-942F9C31ACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E83579-9235-48EE-9CA9-942F9C31ACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E83579-9235-48EE-9CA9-942F9C31ACC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8EEBD4F-7BDF-4BBB-9A88-C1C72D709340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8EEBD4F-7BDF-4BBB-9A88-C1C72D709340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8EEBD4F-7BDF-4BBB-9A88-C1C72D709340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8EEBD4F-7BDF-4BBB-9A88-C1C72D709340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16295049-8BC3-4978-81B8-77E0C4E01098}
+	EndGlobalSection
+EndGlobal
